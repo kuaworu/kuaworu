@@ -17,6 +17,7 @@
 ![xampp](https://img.shields.io/static/v1?logo=xampp&label=&message=xampp&color=36465D&logoColor=AAA&style=flat-square)
 ![virtualbox](https://img.shields.io/static/v1?logo=virtualbox&label=&message=virtualbox&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
+
 ![server](https://img.shields.io/static/v1?label=&message=server:&color=111&style=flat-square)
 ![apache](https://img.shields.io/static/v1?logo=apache&label=&message=apache&color=36465D&logoColor=AAA&style=flat-square)
 ![nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&color=36465D&logoColor=AAA&style=flat-square)
